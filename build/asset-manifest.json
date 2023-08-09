@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/doctuz/static/css/main.5134c114.css",
+    "main.js": "/doctuz/static/js/main.d9f15e3a.js",
+    "static/media/fifthgrade.png": "/doctuz/static/media/fifthgrade.8ead24720c1ee36a3aef.png",
+    "static/media/seventhgrade.png": "/doctuz/static/media/seventhgrade.dbd0485a1ccdfa4ca539.png",
+    "static/media/secondgrade.png": "/doctuz/static/media/secondgrade.fe1238894b796ce5c514.png",
+    "static/media/sixthgrade.png": "/doctuz/static/media/sixthgrade.7a33f96b46fe3d2018fa.png",
+    "static/media/thirdgrade.png": "/doctuz/static/media/thirdgrade.c6514b9df653f01748f5.png",
+    "static/media/fourthgrade.png": "/doctuz/static/media/fourthgrade.62f5d89118f4f4464316.png",
+    "static/media/firstgrade2.png": "/doctuz/static/media/firstgrade2.9b344794fd830cf9d994.png",
+    "static/media/doctuzorg.png": "/doctuz/static/media/doctuzorg.932e7065700ba58767e1.png",
+    "static/media/six.png": "/doctuz/static/media/six.f0dcc183fbf5c8d60a9b.png",
+    "static/media/four.png": "/doctuz/static/media/four.2bb68ecd9e582998f9a9.png",
+    "static/media/three.png": "/doctuz/static/media/three.37ed982143259f7155e6.png",
+    "static/media/five.png": "/doctuz/static/media/five.708a31442691c47e3845.png",
+    "static/media/two.png": "/doctuz/static/media/two.b73ce6d4425e3d3f2bf9.png",
+    "static/media/doctuzhead.png": "/doctuz/static/media/doctuzhead.a850cac25f13074d3be5.png",
+    "static/media/one.png": "/doctuz/static/media/one.d0cd3da4482cbdfde3dd.png",
+    "static/media/school2.jpeg": "/doctuz/static/media/school2.b91de25baf190c4df5a3.jpeg",
+    "static/media/school1.jpeg": "/doctuz/static/media/school1.69ce533145cc4aac63f1.jpeg",
+    "static/media/school3.jpeg": "/doctuz/static/media/school3.3215b4440c5136e0fbb5.jpeg",
+    "static/media/doctuztext2.png": "/doctuz/static/media/doctuztext2.ae935163dbbc86c1e66d.png",
+    "static/media/doctuztextg.png": "/doctuz/static/media/doctuztextg.b05a1bceb3ebb77cf124.png",
+    "index.html": "/doctuz/index.html",
+    "main.5134c114.css.map": "/doctuz/static/css/main.5134c114.css.map",
+    "main.d9f15e3a.js.map": "/doctuz/static/js/main.d9f15e3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5134c114.css",
+    "static/js/main.d9f15e3a.js"
+  ]
+}
