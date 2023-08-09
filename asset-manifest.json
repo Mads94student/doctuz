@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/doctuz/static/css/main.5134c114.css",
-    "main.js": "/doctuz/static/js/main.d9f15e3a.js",
+    "main.js": "/doctuz/static/js/main.65e7c8c0.js",
     "static/media/fifthgrade.png": "/doctuz/static/media/fifthgrade.8ead24720c1ee36a3aef.png",
     "static/media/seventhgrade.png": "/doctuz/static/media/seventhgrade.dbd0485a1ccdfa4ca539.png",
     "static/media/secondgrade.png": "/doctuz/static/media/secondgrade.fe1238894b796ce5c514.png",
@@ -24,10 +24,10 @@
     "static/media/doctuztextg.png": "/doctuz/static/media/doctuztextg.b05a1bceb3ebb77cf124.png",
     "index.html": "/doctuz/index.html",
     "main.5134c114.css.map": "/doctuz/static/css/main.5134c114.css.map",
-    "main.d9f15e3a.js.map": "/doctuz/static/js/main.d9f15e3a.js.map"
+    "main.65e7c8c0.js.map": "/doctuz/static/js/main.65e7c8c0.js.map"
   },
   "entrypoints": [
     "static/css/main.5134c114.css",
-    "static/js/main.d9f15e3a.js"
+    "static/js/main.65e7c8c0.js"
   ]
 }
