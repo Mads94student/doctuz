@@ -15,7 +15,7 @@ function Header() {
         <div className='absolute mt-8'>
           <a href="/">
             <div className='flex flex-col items-center gap-4'>
-              <div className='text-white text-4xl'> <a><img src={imgtitle} alt="None" className='w-52' /></a></div>
+              <div className='text-white text-4xl'> <img src={imgtitle} alt="None" className='w-52' /></div>
               <div className='text-white text-lg'>Fordi å lære matte er gøy!</div>
             </div>
           </a>

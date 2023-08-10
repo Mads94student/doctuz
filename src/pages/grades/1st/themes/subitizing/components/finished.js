@@ -44,7 +44,7 @@ function Finished() {
                 <button onClick={toggleShow} className='absolute top-0 right-0'><FontAwesomeIcon icon={faWindowClose} /></button></div>: 
             null}</div>
             <Button onClick={() => dispatch(UIresetTask())} size="lg" variant="subtle" className="m-8">Spill på nytt</Button>
-            <a href='/grade/firstgrade'><Button size="lg" variant='subtle' className="m-8">Tilbake til 1. Klasse</Button></a>
+            <a href='/'><Button size="lg" variant='subtle' className="m-8">Tilbake til 1. Klasse</Button></a>
 
         </div>
         </div>
