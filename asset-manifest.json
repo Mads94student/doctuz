@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5134c114.css",
-    "main.js": "/static/js/main.56aff5ab.js",
+    "main.css": "/static/css/main.a287c9e7.css",
+    "main.js": "/static/js/main.943c11ee.js",
     "static/media/fifthgrade.png": "/static/media/fifthgrade.8ead24720c1ee36a3aef.png",
     "static/media/seventhgrade.png": "/static/media/seventhgrade.dbd0485a1ccdfa4ca539.png",
     "static/media/secondgrade.png": "/static/media/secondgrade.fe1238894b796ce5c514.png",
@@ -23,11 +23,11 @@
     "static/media/doctuztext2.png": "/static/media/doctuztext2.ae935163dbbc86c1e66d.png",
     "static/media/doctuztextg.png": "/static/media/doctuztextg.b05a1bceb3ebb77cf124.png",
     "index.html": "/index.html",
-    "main.5134c114.css.map": "/static/css/main.5134c114.css.map",
-    "main.56aff5ab.js.map": "/static/js/main.56aff5ab.js.map"
+    "main.a287c9e7.css.map": "/static/css/main.a287c9e7.css.map",
+    "main.943c11ee.js.map": "/static/js/main.943c11ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.5134c114.css",
-    "static/js/main.56aff5ab.js"
+    "static/css/main.a287c9e7.css",
+    "static/js/main.943c11ee.js"
   ]
 }
